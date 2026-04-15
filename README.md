@@ -1,4 +1,4 @@
-# MCEN 3030 Homework 4
+# MCEN 3030 Homework 6
 
 
 This assignment will be auto-graded, but you have to tell GitHub to check your work. Within your repository, click on "Actions" towards the top, and on the left-hand side you should see "Click here to run grader". Then, you should see "Run workflow" to the right.
